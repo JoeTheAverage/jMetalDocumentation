@@ -2,7 +2,7 @@
 ##Installation
 jMetal is a Maven project hosted in GitHub, so there are two ways of getting the software: adding it as a dependence in your own Maven proyect, or getting the source code from https://github.com/jMetal/jMetal.
 
-### Using jMetal as a Maven/Gradle dependence
+### Using jMetal as a Maven or Gradle dependence
 jMetal 5.0 is structured into four submodules:
 * `jmetal-core` : Classes of the core architecture plus some utilities, including quality indicators.
 * `jmetal-algorithm` : Implementations of metaheuristics.
